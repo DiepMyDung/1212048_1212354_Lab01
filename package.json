@@ -1,0 +1,19 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "Lab01",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiepMyDung/1212048_1212354_Lab01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiepMyDung/1212048_1212354_Lab01/issues"
+  },
+  "homepage": "https://github.com/DiepMyDung/1212048_1212354_Lab01#readme"
+}
